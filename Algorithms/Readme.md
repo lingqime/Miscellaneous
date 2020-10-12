@@ -1,1 +1,1 @@
-[C++](./Algorithms/image1.cpp)
+[C++](./image1.cpp)
